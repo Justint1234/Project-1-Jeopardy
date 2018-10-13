@@ -27,6 +27,7 @@
     flex-direction: column;
     justify-content: center;
     text-align: center;
+    color: white;
 }
 .box1 {
     display: flex;
@@ -34,6 +35,7 @@
     justify-content: center;
     grid-area: box1;
     text-align: center;
+    color: white;
 }
 .box2 {
     display: flex;
@@ -41,6 +43,7 @@
     justify-content: center;
     grid-area: box2;
     text-align: center;
+    color: white;
 }
 .box3 {
     display: flex;
@@ -48,6 +51,7 @@
     justify-content: center;
     grid-area: box3;
     text-align: center;
+    color: white;
 }
 .box4 {
     display: flex;
@@ -55,6 +59,7 @@
     justify-content: center;
     grid-area: box4;
     text-align: center;
+    color: white;
 }
 .box5 {
     display: flex;
@@ -62,6 +67,7 @@
     justify-content: center;
     grid-area: box5;
     text-align: center;
+    color: white;
 }
 .box6 {
     grid-area: box6;
