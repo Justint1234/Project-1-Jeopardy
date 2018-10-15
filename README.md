@@ -14,5 +14,7 @@ https://trello.com/b/8Dtzs4KM/project-1
 # Future Development
 
 <li>To have sound and add another player</li>
+<li> Add animations</li>
+<li>Not use so much code and create a shorter and cleaner way to create the game</li>
 
 
