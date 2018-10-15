@@ -5,6 +5,14 @@ For Project 1 I created a geek related Jeopardy game pertaining to comics and an
 # Trello 
 https://trello.com/b/8Dtzs4KM/project-1
 
+# Technologies used
+<li>Design: Bootstrap</li>
+<li>Visual Studio Code</li>
+<li>Project Planning: Trello</li>  
+<li>Languages: Javascript and CSS</li>
 
+# Future Development
+
+<li>To have sound and add another player</li>
 
 
