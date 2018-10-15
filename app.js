@@ -2,7 +2,7 @@ let Cm100 = document.querySelector("#Cm100")
 let points = 0
 let scoreBoard = document.querySelector("h2")
 function functionName(){
-if ()
+if (points === 2500)
 }
 
 functionName()
