@@ -61,230 +61,230 @@ Wa100.addEventListener("click", function () {
     console.log(123)
 })
 
-Cm100.addEventListener("click", function () {
+Cm200.addEventListener("click", function () {
     points += 100;
     scoreBoard.innerHTML = points;
     console.log(123)
     
 })
-Wm100.addEventListener("click", function () {
+Wm200.addEventListener("click", function () {
     points -= 100;
     scoreBoard.innerHTML = points;
     console.log(123)
 })
 
-Cm100.addEventListener("click", function () {
+Cv200.addEventListener("click", function () {
     points += 100;
     scoreBoard.innerHTML = points;
     console.log(123)
     
 })
-Wm100.addEventListener("click", function () {
+Wv200.addEventListener("click", function () {
     points -= 100;
     scoreBoard.innerHTML = points;
     console.log(123)
 })
 
-Cm100.addEventListener("click", function () {
-    points += 100;
+Cp200.addEventListener("click", function () {
+    points += 200;
     scoreBoard.innerHTML = points;
     console.log(123)
     
 })
-Wm100.addEventListener("click", function () {
-    points -= 100;
+Wp200.addEventListener("click", function () {
+    points -= 200;
     scoreBoard.innerHTML = points;
     console.log(123)
 })
 
-Cm100.addEventListener("click", function () {
-    points += 100;
+Chv200.addEventListener("click", function () {
+    points += 200;
     scoreBoard.innerHTML = points;
     console.log(123)
     
 })
-Wm100.addEventListener("click", function () {
-    points -= 100;
+Whv200.addEventListener("click", function () {
+    points -= 200;
     scoreBoard.innerHTML = points;
     console.log(123)
 })
 
-Cm100.addEventListener("click", function () {
-    points += 100;
+Ca200.addEventListener("click", function () {
+    points += 200;
     scoreBoard.innerHTML = points;
     console.log(123)
     
 })
-Wm100.addEventListener("click", function () {
-    points -= 100;
+Wa200.addEventListener("click", function () {
+    points -= 200;
     scoreBoard.innerHTML = points;
     console.log(123)
 })
 
-Cm100.addEventListener("click", function () {
-    points += 100;
+Cm300.addEventListener("click", function () {
+    points += 300;
     scoreBoard.innerHTML = points;
     console.log(123)
     
 })
-Wm100.addEventListener("click", function () {
-    points -= 100;
+Wm300.addEventListener("click", function () {
+    points -= 300;
     scoreBoard.innerHTML = points;
     console.log(123)
 })
 
-Cm100.addEventListener("click", function () {
-    points += 100;
+Cv300.addEventListener("click", function () {
+    points += 300;
     scoreBoard.innerHTML = points;
     console.log(123)
     
 })
-Wm100.addEventListener("click", function () {
-    points -= 100;
+Wv300.addEventListener("click", function () {
+    points -= 300;
     scoreBoard.innerHTML = points;
     console.log(123)
 })
 
-Cm100.addEventListener("click", function () {
-    points += 100;
+Cp300.addEventListener("click", function () {
+    points += 300;
     scoreBoard.innerHTML = points;
     console.log(123)
     
 })
-Wm100.addEventListener("click", function () {
-    points -= 100;
+Wp300.addEventListener("click", function () {
+    points -= 300;
     scoreBoard.innerHTML = points;
     console.log(123)
 })
 
-Cm100.addEventListener("click", function () {
-    points += 100;
+Chv300.addEventListener("click", function () {
+    points += 300;
     scoreBoard.innerHTML = points;
     console.log(123)
     
 })
-Wm100.addEventListener("click", function () {
-    points -= 100;
+Whv300.addEventListener("click", function () {
+    points -= 300;
     scoreBoard.innerHTML = points;
     console.log(123)
 })
 
-Cm100.addEventListener("click", function () {
-    points += 100;
+Ca300.addEventListener("click", function () {
+    points += 300;
     scoreBoard.innerHTML = points;
     console.log(123)
     
 })
-Wm100.addEventListener("click", function () {
-    points -= 100;
+Wa300.addEventListener("click", function () {
+    points -= 300;
     scoreBoard.innerHTML = points;
     console.log(123)
 })
 
-Cm100.addEventListener("click", function () {
-    points += 100;
+Cm400.addEventListener("click", function () {
+    points += 400;
     scoreBoard.innerHTML = points;
     console.log(123)
     
 })
-Wm100.addEventListener("click", function () {
-    points -= 100;
+Wm400.addEventListener("click", function () {
+    points -= 400;
     scoreBoard.innerHTML = points;
     console.log(123)
 })
 
-Cm100.addEventListener("click", function () {
-    points += 100;
+Cv400.addEventListener("click", function () {
+    points += 400;
     scoreBoard.innerHTML = points;
     console.log(123)
     
 })
-Wm100.addEventListener("click", function () {
-    points -= 100;
+Wv400.addEventListener("click", function () {
+    points -= 400;
     scoreBoard.innerHTML = points;
     console.log(123)
 })
 
-Cm100.addEventListener("click", function () {
-    points += 100;
+Cp400.addEventListener("click", function () {
+    points += 400;
     scoreBoard.innerHTML = points;
     console.log(123)
     
 })
-Wm100.addEventListener("click", function () {
-    points -= 100;
+Wv400.addEventListener("click", function () {
+    points -= 400;
     scoreBoard.innerHTML = points;
     console.log(123)
 })
 
-Cm100.addEventListener("click", function () {
-    points += 100;
+Chv400.addEventListener("click", function () {
+    points += 400;
     scoreBoard.innerHTML = points;
     console.log(123)
     
 })
-Wm100.addEventListener("click", function () {
-    points -= 100;
+Whv400.addEventListener("click", function () {
+    points -= 400;
     scoreBoard.innerHTML = points;
     console.log(123)
 })
 
-Cm100.addEventListener("click", function () {
-    points += 100;
+Ca400.addEventListener("click", function () {
+    points += 400;
     scoreBoard.innerHTML = points;
     console.log(123)
     
 })
-Wm100.addEventListener("click", function () {
-    points -= 100;
+Wa400.addEventListener("click", function () {
+    points -= 400;
     scoreBoard.innerHTML = points;
     console.log(123)
 })
 
-Cm100.addEventListener("click", function () {
-    points += 100;
+Cm500.addEventListener("click", function () {
+    points += 500;
     scoreBoard.innerHTML = points;
     console.log(123)
     
 })
-Wm100.addEventListener("click", function () {
-    points -= 100;
+Wv500.addEventListener("click", function () {
+    points -= 500;
     scoreBoard.innerHTML = points;
     console.log(123)
 })
 
-Cm100.addEventListener("click", function () {
-    points += 100;
+Cp500.addEventListener("click", function () {
+    points += 500;
     scoreBoard.innerHTML = points;
     console.log(123)
     
 })
-Wm100.addEventListener("click", function () {
-    points -= 100;
+Wp500.addEventListener("click", function () {
+    points -= 500;
     scoreBoard.innerHTML = points;
     console.log(123)
 })
 
-Cm100.addEventListener("click", function () {
-    points += 100;
+Chv500.addEventListener("click", function () {
+    points += 500;
     scoreBoard.innerHTML = points;
     console.log(123)
     
 })
-Wm100.addEventListener("click", function () {
-    points -= 100;
+Whv500.addEventListener("click", function () {
+    points -= 500;
     scoreBoard.innerHTML = points;
     console.log(123)
 })
 
-Cm100.addEventListener("click", function () {
-    points += 100;
+Ca500.addEventListener("click", function () {
+    points += 500;
     scoreBoard.innerHTML = points;
     console.log(123)
     
 })
-Wm100.addEventListener("click", function () {
-    points -= 100;
+Wa500.addEventListener("click", function () {
+    points -= 500;
     scoreBoard.innerHTML = points;
     console.log(123)
 })
