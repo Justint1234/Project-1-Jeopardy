@@ -37,25 +37,25 @@ Wp100.addEventListener("click", function () {
     console.log(123)
 })
 
-Cm100.addEventListener("click", function () {
+Chv100.addEventListener("click", function () {
     points += 100;
     scoreBoard.innerHTML = points;
     console.log(123)
     
 })
-Wm100.addEventListener("click", function () {
+Whv100.addEventListener("click", function () {
     points -= 100;
     scoreBoard.innerHTML = points;
     console.log(123)
 })
 
-Cm100.addEventListener("click", function () {
+Ca100.addEventListener("click", function () {
     points += 100;
     scoreBoard.innerHTML = points;
     console.log(123)
     
 })
-Wm100.addEventListener("click", function () {
+Wa100.addEventListener("click", function () {
     points -= 100;
     scoreBoard.innerHTML = points;
     console.log(123)
