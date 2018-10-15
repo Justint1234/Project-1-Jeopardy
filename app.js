@@ -62,25 +62,25 @@ Wa100.addEventListener("click", function () {
 })
 
 Cm200.addEventListener("click", function () {
-    points += 100;
+    points += 200;
     scoreBoard.innerHTML = points;
     console.log(123)
     
 })
 Wm200.addEventListener("click", function () {
-    points -= 100;
+    points -= 200;
     scoreBoard.innerHTML = points;
     console.log(123)
 })
 
 Cv200.addEventListener("click", function () {
-    points += 100;
+    points += 200;
     scoreBoard.innerHTML = points;
     console.log(123)
     
 })
 Wv200.addEventListener("click", function () {
-    points -= 100;
+    points -= 200;
     scoreBoard.innerHTML = points;
     console.log(123)
 })
