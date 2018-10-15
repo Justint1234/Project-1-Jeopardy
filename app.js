@@ -1,6 +1,11 @@
 let Cm100 = document.querySelector("#Cm100")
 let points = 0
 let scoreBoard = document.querySelector("h2")
+function functionName(){
+if ()
+}
+
+functionName()
 
 Cm100.addEventListener("click", function () {
     points += 100;
