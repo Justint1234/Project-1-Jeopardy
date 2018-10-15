@@ -1,11 +1,7 @@
 let Cm100 = document.querySelector("#Cm100")
 let points = 0
 let scoreBoard = document.querySelector("h2")
-function functionName(){
-if (points === 2500)
-}
-
-functionName()
+document.getElementById(".audio").loop = true;
 
 Cm100.addEventListener("click", function () {
     points += 100;
