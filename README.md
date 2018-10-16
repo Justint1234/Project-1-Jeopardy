@@ -8,6 +8,9 @@ https://app.netlify.com/sites/focused-raman-368421/overview
 # Trello 
 https://trello.com/b/8Dtzs4KM/project-1
 
+# Wireframe
+https://www.figma.com/file/KdTEy453TqUEBW5QQSSR3onE/Untitled?node-id=1%3A2
+
 # Technologies used
 <li>Design: Bootstrap</li>
 <li>Visual Studio Code</li>
